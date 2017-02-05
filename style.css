@@ -1,0 +1,46 @@
+* {
+	box-sizing: border-box;
+}
+
+p {
+font-family: "Courier New", Courier, monospace;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+letter-spacing: normal;
+line-height: normal;
+text-transform: none;
+text-decoration: none;
+text-align: left;
+padding: auto;
+}
+
+#header-nav {
+	background-color: #cccccc;
+	border-radius: 0;
+}
+
+}
+.navbar-brand {
+	color: #000000;
+	text-decoration: none;
+	font-family: "Courier New", Courier, monospace;
+	font-weight: bold;
+	position: relative;
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: bold;
+}
+
+#nav-list {
+	margin-top: 50px;
+	text-align: center;
+}
+
+
+.col-xs-12 {
+	background-color: #cccccc;
+	margin: auto;
+}
